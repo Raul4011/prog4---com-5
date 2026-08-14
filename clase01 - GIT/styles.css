@@ -16,3 +16,13 @@ body {
 background: #020024;
 background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
 }
+
+.img {
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    box-shadow: 6px 6px 6px black;
+}
+li {
+    list-style-type: none;
+}
