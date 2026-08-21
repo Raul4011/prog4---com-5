@@ -70,41 +70,116 @@
 
 
 
-const Respirar = () =>{
+// const Respirar = () =>{
 
-    console.log("respirando.....")
+//     console.log("respirando.....")
+// }
+
+// Respirar()
+
+
+
+// //setInterval(Respirar,1000)
+
+// setTimeout(Respirar,5000)
+
+
+// const getDate = () =>{
+//     const date = new Date()
+
+//     const hs = date.getHours()
+//     const min = date.getMinutes()
+//     const sec = date.getSeconds()
+
+//         console.log(hs+':'+min+':'+sec);
+
+
+// }
+
+// getDate()
+
+// //setInterval(getDate,2000)
+
+// let pepito = 'carlos'
+
+// const saludar = (visitante='') =>{
+//     console.log('hola'+visitante);
+// }
+
+// saludar(pepito)
+
+console.log('clase03');
+
+//clase Persona
+// class Persona {
+//     nombre;
+
+//     constructor(nombre){
+//         this.nombre=nombre
+//     }
+
+//     get()
+//     set()
+
+//     dormir()
+// }
+//Objeto literal Alumno
+const Alumno = {
+    nombre:'leonardo',
+    edad:23,
+    hobbies:["futbol",'gym','karate'],
+    mascotas:[{
+        nombreMascota:"kira",
+        edadmascota:15,
+        raza:'caniche'
+    },
+{
+        nombreMascota:"ody",
+        edadmascota:10,
+        raza:'caniche toy'
+    }],
+    casado:false,
+    dormir:()=>console.log('zzzZZZzzzzz'),
+    comer:()=>console.log('ñam ñam')
+
 }
 
-Respirar()
 
 
 
-//setInterval(Respirar,1000)
+console.log(Alumno.edad);
 
-setTimeout(Respirar,5000)
-
-
-const getDate = () =>{
-    const date = new Date()
-
-    const hs = date.getHours()
-    const min = date.getMinutes()
-    const sec = date.getSeconds()
-
-        console.log(hs+':'+min+':'+sec);
+console.log(Alumno.mascotas[1].raza);
 
 
-}
 
-getDate()
 
-//setInterval(getDate,2000)
 
-let pepito = 'carlos'
 
-const saludar = (visitante='') =>{
-    console.log('hola'+visitante);
-}
 
-saludar(pepito)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
