@@ -1,0 +1,23 @@
+{
+    "Escaloneta":[
+        {
+            "nombre":"leonel messi",
+            "edad":39,
+            "numCamiseta":10,
+            "casado":true,
+            "historialClubes":["barcelona","psg","inter miami"],
+            "cantHijos":3,
+            "piernaHabil":"izquierda",
+            "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuM4d-Z0bcA7FkFkjJAMnvkZwz1Is6jeLnaEgQ2YgmjQ&s=10"
+        },{
+            "nombre":"enzo fernandez",
+            "edad":25,
+            "numCamiseta":8,
+            "casado":true,
+            "historialClubes":["river","defensa","chelsea"],
+            "cantHijos":2,
+            "piernaHabil":"izquierda",
+            "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuM4d-Z0bcA7FkFkjJAMnvkZwz1Is6jeLnaEgQ2YgmjQ&s=10"
+        },{},{}
+    ]
+}
