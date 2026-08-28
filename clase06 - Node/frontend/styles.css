@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header {
+    background-color: orange;
+}
+.main {
+background-color: lightblue
+}
+.footer {
+background-color: orange;
+}
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: #f08080
+}
+
+h3 {
+    color:rgb(red, green, blue)
+}
+.button {
+    background-color: lightgreen;
+    border-radius: 10px;
+    color: black;
+    border: 1px solid black
+}
+#liApellido {
+    background-color: red;
+}
+.imagen {
+    width: 300px;
+    height: 300px;
+}
