@@ -1,0 +1,11 @@
+.Productcard {
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 0px 4px 6px black;
+}
+.imagen {
+    width: 300px;
+    height: 300px;
+}
