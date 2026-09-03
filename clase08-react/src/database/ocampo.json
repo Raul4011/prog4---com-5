@@ -1,0 +1,23 @@
+{
+"suplementos":[{
+    "id":1,
+    "nombre":"Creatina",
+    "precio": 25000,
+    "marca":"star nutrition",
+    "descripcion":"la mejor del mercado",
+    "imagen":"https://cdn.batitienda.com/baticloud/images/product_picture_b62840d128e2464a98e5fc203f10384a_638717584034746552_0_m.jpg"
+},{"id":2,
+    "nombre":"Proteina",
+    "precio": 50000,
+    "marca":"Ena nutrition",
+    "descripcion":"sabor chocolate",
+    "imagen":"https://farmacityar.vtexassets.com/arquivos/ids/243161/203644_suplemento-dietario-ena-whey-protein-sabor-chocolate-x-930-g__imagen-1.jpg?v=638211442368130000"},{
+        "id":3,
+    "nombre":"Aminoacidos",
+    "precio": 20000,
+    "marca":"xtrenght nutrition",
+    "descripcion":"postentrenamiento",
+    "imagen":"https://xtrenght-nutrition.com/media/fotos_productos/101/Pro-bcaa.500.png"
+    }]
+
+}
