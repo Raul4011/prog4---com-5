@@ -1,0 +1,25 @@
+.MainHome {
+  text-align: center;
+  color: white;
+  text-shadow: 2px 4px 4px black;
+  background: #020024;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+.h3 {
+  color: #333;
+  text-shadow: 2px 4px 4px black;
+}
+.suplements {
+  width: 80%;
+  border-radius: 15px;
+  text-align: center;
+  margin: auto;
+}
+li {
+  list-style: none;
+}
