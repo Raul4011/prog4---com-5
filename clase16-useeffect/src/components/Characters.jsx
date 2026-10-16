@@ -21,7 +21,7 @@ const Characters = () => {
     const getCharacters = async () => {
         try {
             let response = await axios.get(BASE_URL + "character")
-            console.log(response.data);
+            //console.log(response.data);
             setPersonajes(response.data.results)
             setLoading(false)
             setError(false)
@@ -36,7 +36,7 @@ const Characters = () => {
         e.preventDefault()
         try {
             let response = await axios.get(BASE_URL + "character"+"?name="+busqueda)
-            console.log(response.data.results);
+            //console.log(response.data.results);
             setPersonajes(response.data.results)
             setLoading(false)
             setError(false)

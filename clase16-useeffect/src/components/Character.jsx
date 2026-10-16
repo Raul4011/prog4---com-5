@@ -2,7 +2,7 @@ import React from 'react'
 
 const Character = (props) => {
 
-    console.log(props);
+    //console.log(props);
     return (
         <div className="bg-blue-300 text-center max-w-sm rounded overflow-hidden shadow-lg">
             <br />
