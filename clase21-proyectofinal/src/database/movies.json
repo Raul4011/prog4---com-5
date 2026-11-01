@@ -1,0 +1,134 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "nombre": "Inception",
+      "genero": "Ciencia ficción",
+      "año": 2010,
+      "imagen": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+      "url_descarga": "https://example.com/descargas/inception"
+    },
+    {
+      "id": "2",
+      "nombre": "Interestelar",
+      "genero": "Ciencia ficción",
+      "año": 2014,
+      "imagen": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "url_descarga": "https://example.com/descargas/interstellar"
+    },
+    {
+      "id": "3",
+      "nombre": "Batman: El caballero de la noche",
+      "genero": "Acción",
+      "año": 2008,
+      "imagen": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "url_descarga": "https://example.com/descargas/dark-knight"
+    },
+    {
+      "id": "4",
+      "nombre": "Pulp Fiction",
+      "genero": "Crimen",
+      "año": 1994,
+      "imagen": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfb8h.jpg",
+      "url_descarga": "https://example.com/descargas/pulp-fiction"
+    },
+    {
+      "id": "5",
+      "nombre": "Matrix",
+      "genero": "Ciencia ficción",
+      "año": 1999,
+      "imagen": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "url_descarga": "https://example.com/descargas/matrix"
+    },
+    {
+      "id": "6",
+      "nombre": "Avengers: Endgame",
+      "genero": "Acción",
+      "año": 2019,
+      "imagen": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "url_descarga": "https://example.com/descargas/avengers-endgame"
+    },
+    {
+      "id": "7",
+      "nombre": "Spider-Man: Sin camino a casa",
+      "genero": "Acción",
+      "año": 2021,
+      "imagen": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "url_descarga": "https://example.com/descargas/spider-man-no-way-home"
+    },
+    {
+      "id": "8",
+      "nombre": "Avatar",
+      "genero": "Ciencia ficción",
+      "año": 2009,
+      "imagen": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+      "url_descarga": "https://example.com/descargas/avatar"
+    },
+    {
+      "id": "9",
+      "nombre": "El club de la pelea",
+      "genero": "Drama",
+      "año": 1999,
+      "imagen": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+      "url_descarga": "https://example.com/descargas/fight-club"
+    },
+    {
+      "id": "10",
+      "nombre": "El Señor de los Anillos: El retorno del rey",
+      "genero": "Fantasía",
+      "año": 2003,
+      "imagen": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "url_descarga": "https://example.com/descargas/retorno-del-rey"
+    },
+    {
+      "nombre": "predator",
+      "genero": "accion sci fi aventuras",
+      "año": "1985",
+      "imagen": "https://www.prime1studio.com/on/demandware.static/-/Sites-p1s-master-catalog/default/dwd3f8e7f3/images/REMAVP-01DXS/media/10_REMAVP-01DX_670x804_PLP_thumbnail.jpg",
+      "url_descarga": "myurldescarga.com",
+      "id": "iL7V8topbP4"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "admin",
+      "apellido": "admin",
+      "email": "admin@admin",
+      "password": "1234",
+      "rol": "admin"
+    },
+    {
+      "id": "1",
+      "nombre": "user",
+      "apellido": "user",
+      "email": "user@user",
+      "password": "123456",
+      "rol": "user"
+    }
+  ],
+  "tareas": [
+    {
+      "id": 1,
+      "titulo": "estudiar Express",
+      "descripcion": "hay poco tiempo",
+      "estado": "pendiente",
+      "color": "orange"
+    },
+    {
+      "id": 2,
+      "titulo": "estudiar GDS",
+      "descripcion": "esta mas facil",
+      "estado": "pendiente",
+      "color": "orange"
+    },
+    {
+      "id": 3,
+      "titulo": "Mirar Tv",
+      "descripcion": "hay mucho tiempo",
+      "estado": "pendiente",
+      "color": "orange"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
